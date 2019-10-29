@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ihibei.cn
+url: http://www.ihibei.cn
 date_format: "ordinal"
 title: 胡大嘴
 subtitle: "打码改变人生"
