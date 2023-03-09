@@ -4,9 +4,9 @@
 baseurl:
 url: http://www.ihibei.cn
 date_format: "ordinal"
-title: 胡大嘴
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+title: 个人技术
+subtitle: "知识改变命运"
+description: "胡大嘴的个人技术知识库"
 keywords: 胡大嘴, BigMouth, big-mouth-cn
 timezone: Asia/Shanghai
 encoding: "utf-8"
